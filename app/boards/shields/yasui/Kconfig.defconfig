@@ -1,0 +1,6 @@
+if SHIELD_YASUI
+
+config ZMK_KEYBOARD_NAME
+    default "Yasui"
+
+endif
