@@ -1,7 +1,5 @@
-&i2c0 {
+&pro_micro_i2c {
 	status = "okay";
-	sda-pin = <39>; // nice!nano pin 107
-	scl-pin = <34>; // nice!nano pin 102
 
 	oled: ssd1306@3c {
 		compatible = "solomon,ssd1306fb";
@@ -13,8 +11,6 @@
 		page-offset = <0>;
 		display-offset = <0>;
 		multiplex-ratio = <31>;
-		com-invdir;
-		segment-remap;
 		com-sequential;
 		prechargep = <0x22>;
 	};
