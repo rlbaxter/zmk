@@ -61,6 +61,7 @@ jobs:
           - splitreus62_right
           - tg4x
           - tidbit
+          - yasui
         cmake-args: [""]
         include:
           - board: bdn9_rev2
@@ -78,6 +79,8 @@ jobs:
             shield: kyria_right
             cmake-args: -DCONFIG_ZMK_DISPLAY=y
             skip-archive: true
+          - board: nice_nano_v2
+            shield: yasui
     steps:
       - name: Checkout
         uses: actions/checkout@v2
