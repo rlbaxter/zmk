@@ -1,0 +1,8 @@
+file_format: "1"
+id: electrolyte
+name: Electrolyte
+type: shield
+url: https://github.com/rlbaxter/electrolyte
+requires: [pro_micro]
+features:
+  - keys
