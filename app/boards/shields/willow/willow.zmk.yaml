@@ -1,0 +1,8 @@
+file_format: "1"
+id: willow
+name: Willow
+type: shield
+url: https://github.com/apilzer
+requires: [pro_micro]
+features:
+  - keys

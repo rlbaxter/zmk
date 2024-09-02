@@ -1,0 +1,6 @@
+if SHIELD_WILLOW
+
+config ZMK_KEYBOARD_NAME
+    default "Willow"
+
+endif
