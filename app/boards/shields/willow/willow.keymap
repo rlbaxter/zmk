@@ -48,7 +48,7 @@
 &kp W     &kp L       &kp Y      &kp P       &kp B      &kp Z      &kp F       &kp O          &kp U       &kp BSPC
 &kp C     &hm LCTRL R &hm LALT S &hm LSHFT T &hm LGUI G &hm RGUI M &hm RSHFT N &hm RALT E     &hm RCTRL I &kp A
 &kp Q     &kp J       &kp V      &kp D       &kp K      &kp X      &kp H       &kp COMMA      &kp DOT     &kp ENTER
-                      &kp LGUI   &mo LOWER   &kp LSHIFT &kp SPACE  &mo RAISE   &kp TAB
+                      &kp LGUI   &mo LOWER   &kp SPACE  &kp LSHIFT &mo RAISE   &kp TAB
             >;
         };
                
