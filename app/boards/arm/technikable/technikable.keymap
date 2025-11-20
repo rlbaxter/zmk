@@ -54,7 +54,7 @@
 &kp Q     &kp W       &kp E      &kp R       &kp T      &none        &none         &kp Y      &kp U       &kp I          &kp O       &kp P
 &kp A     &hm LCTRL S &hm LALT D &hm LSHFT F &hm LGUI G &none        &none         &hm RGUI H &hm RSHFT J &hm RALT K     &hm RCTRL L &kp BSPC
 &kp Z     &kp X       &kp C      &kp V       &kp B      &none        &none         &kp N      &kp M       &kp COMMA      &kp DOT     &kp ENTER
-                      &kp LGUI   &mo LOWER   &kp LSHIFT &kp C_VOL_DN &kp C_VOL_UP  &kp SPACE  &mo RAISE   &lt EXTRAS TAB
+                      &kp LGUI   &mo LOWER   &kp SPACE &kp C_VOL_DN &kp C_VOL_UP  &kp LSHIFT  &mo RAISE   &lt EXTRAS TAB
             >;
         };
 
@@ -63,7 +63,7 @@
 &kp W     &kp L       &kp Y      &kp P       &kp B      &none        &none         &kp Z      &kp F       &kp O          &kp U       &kp BSPC
 &kp C     &hm LCTRL R &hm LALT S &hm LSHFT T &hm LGUI G &none        &none         &hm RGUI M &hm RSHFT N &hm RALT E     &hm RCTRL I &kp A
 &kp Q     &kp J       &kp V      &kp D       &kp K      &none        &none         &kp X      &kp H       &kp COMMA      &kp DOT     &kp ENTER
-                      &kp LGUI   &mo LOWER   &kp LSHIFT &kp C_VOL_DN &kp C_VOL_UP  &kp SPACE  &mo RAISE   &lt EXTRAS TAB
+                      &kp LGUI   &mo LOWER   &kp SPACE &kp C_VOL_DN &kp C_VOL_UP  &kp LSHIFT  &mo RAISE   &lt EXTRAS TAB
             >;
         };
 
